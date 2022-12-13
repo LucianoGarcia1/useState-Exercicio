@@ -15,3 +15,19 @@ dados da api para outros componentes.</p>
 - ReactJs
 - useStates(Hooks)
 - Fetch Apis
+
+## Exercício
+
+<div>
+// O link abaixo puxa dados de um produto em formato JSON
+
+https://ranekapi.origamid.dev/json/api/produto/
+
+// Crie uma interface com 3 botões, um para cada produto.
+
+// Ao clicar no botão faça um fetch a api e mostre os dados do produto na tela.
+
+// Mostre apenas um produto por vez
+
+// Mostre a mensagem carregando... enquanto o fetch é realizado
+</div>
